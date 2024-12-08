@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Rafid Reaz
 
-Welcome to my GitHub profile! I'm a **Bachelor of Computer Science and Engineering graduate from BRAC University** and currently working as an **Executive in IT & ADC Operations** at NRB Bank. My work focuses on optimizing core banking processes, managing technical systems, and ensuring smooth daily operations.
+Welcome to my GitHub profile! I'm a **Bachelor of Computer Science and Engineering graduate from BRAC University** and currently working as an **Executive in IT & ADC Operations** at **NRB Bank PLC**. My work focuses on optimizing core banking processes, managing technical systems, and ensuring smooth daily operations.
 
 ---
 
