@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Computer Science and Engineeri
 
 ## 📂 Featured Projects
 
-1. **[GameVerse (Ecommerce)](https://github.com/rakibul-mahin/GameVerse-Ecom)**
+1. **[GameVerse (Ecommerce)](https://github.com/rakibul-mahin/GameVerse-Ecom-)**
    - A reactive e-commerce platform built as part of CSE471.
 
 2. **[Gold Price Predictor](https://github.com/rafidreaz/CSE422_Final-Project)**
